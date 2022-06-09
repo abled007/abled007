@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+- ⚡ Fun fact: 90% of the world's data was generated between 2019 and the present. 
 - 😄 Pronouns: she/her
 - 📫 Email: audreybledsoe3@gmail.com
 
@@ -14,7 +14,6 @@
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with
 - 💬 Ask me about 
-- ⚡ Fun fact: 
 - 👀 I’m interested in 
 - 💞️ I’m looking to collaborate on 
 --->
