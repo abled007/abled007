@@ -4,7 +4,7 @@
 - ⚡ Fun fact: 90% of the world's data was generated between 2019 and the present. 
 - 😄 Pronouns: she/her
 - 📫 Email: audreybledsoe3@gmail.com
-- 🌱 Portfolio: abled007/github.io
+- 🌱 Portfolio: https://abled007/github.io
 
 
 <!--
