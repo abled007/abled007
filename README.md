@@ -12,7 +12,10 @@ I have been learning to code for about a year now. Moving forward I hope to expa
 *   🚀  I'm currently working on [Chess Game](http://github.com/abled007/Chess-game-)
 *   🧠  I'm learning JavaScript frameworks
 *   🤝  I'm open to collaborating on Projects
-*   ⚡  I love anime and computer stuff!### Skills 
+*   ⚡  I love anime and computer stuff!
+
+### Skills 
+
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -29,14 +32,23 @@ I have been learning to code for about a year now. Moving forward I hope to expa
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>### Socials
+</p>
+
+### Socials
+
 <p align="left">
 <a href="https://www.codepen.io/_audree_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a>
 <a href="https://www.github.com/abled007" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-<a href="https://www.linkedin.com/in/audrey-bledsoe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a href="http://www.github.com/abled007"><img src="https://github-readme-stats.vercel.app/api?username=abled007&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=64748b&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="abled007's GitHub stats" /></a><a
-href="http://www.github.com/abled007"><img
-src="https://github-readme-streak-stats.herokuapp.com/?user=abled007&stroke=64748b&background=1c1917&ring=ec4899&fire=ec4899&currStreakNum=64748b&currStreakLabel=ec4899&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a><a
-href="http://www.github.com/abled007"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=abled007&bg_color=1c1917&color=64748b&line=a855f7&point=64748b&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/abled007" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abled007&langs_count=10&title_color=ec4899&text_color=64748b&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://www.linkedin.com/in/audrey-bledsoe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/abled007"><img src="https://github-readme-stats.vercel.app/api?username=abled007&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=64748b&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="abled007's GitHub stats" /></a>
+<a href="http://www.github.com/abled007"><img
+src="https://github-readme-streak-stats.herokuapp.com/?user=abled007&stroke=64748b&background=1c1917&ring=ec4899&fire=ec4899&currStreakNum=64748b&currStreakLabel=ec4899&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
+<a href="http://www.github.com/abled007"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=abled007&bg_color=1c1917&color=64748b&line=a855f7&point=64748b&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/abled007" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abled007&langs_count=10&title_color=ec4899&text_color=64748b&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
 <!--
